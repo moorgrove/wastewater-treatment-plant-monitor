@@ -1,0 +1,3 @@
+lora_app_eui = '0000000000000000'
+lora_app_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+lora_dev_eui = 'XXXXXXXXXXXXXXXX'
